@@ -1,0 +1,4 @@
+﻿PlayScene.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl CPlatform::Render(void)" (?Render@CPlatform@@UEAAXXZ)
+PlayScene.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl CPlatform::GetBoundingBox(float &,float &,float &,float &)" (?GetBoundingBox@CPlatform@@UEAAXAEAM000@Z)
+PlayScene.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl CPlatform::IsDirectionColliable(float,float)" (?IsDirectionColliable@CPlatform@@UEAAHMM@Z)
+C:\Users\Admin\Desktop\Study\NMPTG\Mario_SE102\x64\Debug\Mario_SE102.exe : fatal error LNK1120: 3 unresolved externals
